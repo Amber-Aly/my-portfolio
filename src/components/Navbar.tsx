@@ -10,8 +10,8 @@ const Navbar = () => {
                 <li className='menulink'><a href='#hero'>Home</a></li>
                 <li className='menulink'><a href='#about'>About</a></li>
                 <li className='menulink'><a href='#projects'>Projects</a></li>
-                <li className='menulink'><a href='skills'>Skills</a></li>
-                <li className='menulink'><a href='contact'>Contact</a></li>
+                <li className='menulink'><a href='#skills'>Skills</a></li>
+                <li className='menulink'><a href='#contact'>Contact</a></li>
             </ul>
             <AiOutlineMenu className='md:hidden' size={30}/>
         </div>

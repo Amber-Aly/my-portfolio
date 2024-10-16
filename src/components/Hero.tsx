@@ -9,11 +9,11 @@ const Hero = () => {
 <Navbar />
 <div className='container grid lg:grid-cols-2 h-[calc(100vh-60px)]'>
   <div className='hidden lg:block'></div>
-  <div className='text-[80px] sm:text-[100px] font-bold leading-tight flex justify-center items-center'>
+  <div className='text-[80px] sm:text-[100px] font-bold leading-tight flex justify-center items-center text-green-500'>
     <div>
-      <p>I'm</p>
-      <p>Amber</p>
-      <p>Farah</p>
+      <p data-aos="zoom-in-up">Hello</p>
+      <p data-aos="zoom-in-up">I'm</p>
+      <p data-aos="zoom-in-up">Amber</p>
     </div>
   </div>
 </div>
